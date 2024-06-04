@@ -1,5 +1,5 @@
 # 프로젝트 주제 선정
-+SpringFramework를 공부한 후 기술을 더 익히고자 웹의 기본이라고 할 수 있는 CRUD 게시판을 제작.
++ SpringFramework를 공부한 후 기술을 더 익히고자 웹의 기본이라고 할 수 있는 CRUD 게시판을 제작.
 ***
 # 개요
 + 프로젝트 명칭 : Free Board (자유게시판)
